@@ -1,0 +1,14 @@
+{
+  "name": "pixi-rain",
+  "version": "1.0.0",
+  "description": "Pixi project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Buzzelli",
+  "license": "MIT",
+  "dependencies": {
+    "pixi.js": "^5.3.7"
+  }
+}
